@@ -1,7 +1,7 @@
 ## Interface: 80000
 ## Title: |cffff8800Guild|r|cff00A2FFShield|r
 ## Notes: Protection against SuperGuildInvite
-## Version: 1.3
+## Version: 1.4
 ## Author: Janniie - Stormreaver EU
 ## Updated by: Snowenn - Zul'jin US
 ## SavedVariables: GuildShield
